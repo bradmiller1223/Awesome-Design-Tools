@@ -143,7 +143,7 @@ If you found some great design conference, just send a Pull Request with respect
 ### June
 | Name | About | Dates | Location |
 |---|---|---|---|
-| [CreativePro Week](https://creativeproweek.com/) | the HOW-TO conference for creative professionals who design, create, or edit in Adobe InDesign, Photoshop, Illustrator, Microsoft PowerPoint, and other creative tools. | June 1-5 | Austin, USA |
+| [CreativePro Week: An Online Event](https://creativeproweek.com/) | the HOW-TO online conference for creative professionals who design, create, or edit in Adobe InDesign, Photoshop, Illustrator, Acrobat, and Microsoft PowerPoint. | June 1-5. | Virtual |
 | [Fluxible](https://www.fluxible.ca/) | a gathering of people who share an interest in user experience design and the fields with which it intersects. Fluxible is an inclusive, cooperative environment where everyone is welcomed, open dialogue is encouraged, and all perspectives are appreciated. | June 1-7 | Waterloo, Canada |
 | [UXR Collective](https://uxrconference.com/) | brings together people from across the globe who are committed to championing their users, surfacing better insights, and bettering the tech ecosystem. | June 3-5 | Toronto, Canada |
 | [99U Conference](https://conference.99u.com/) | Adobe’s career resource and annual conference, helping creatives of all stripes supercharge their work and make their ideas happen. | June 3-5 | New York, USA |
@@ -151,8 +151,9 @@ If you found some great design conference, just send a Pull Request with respect
 | [Eyeo Festival](http://eyeofestival.com/) | brings together creative coders, data designers, and creators working at the intersection of data, art & technology for talks, workshops, labs, and events. | June 8-11 | Minneapolis, USA |
 | [SmashingConf](https://smashingconf.com/austin-2020) | an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy, internationalization, designing for mobile, HTML email and real-life case studies. | June 9-10 | Austin, USA |
 | [Dsgnday](https://dsgnday.nl/) | a full-day conference with eight presentations about web design and user experience. Expect plenty of practical advice on designing for the web—on any device. | June 11 | Amsterdam, Netherlands |
+| [An Event Apart: Online Together](https://aneventapart.com/) | a single-day online conference with an intense focus on digital design, UX, content, code, and more, giving you deep insights into where we are now and where things are going next. | June 15 | Virtual |
 | [ICON11: The Illustration Conference](https://theillustrationconference.org/) | gathering of illustrators, designers, educators, representatives, and art buyers exploring illustration today. | June 28-July 1 | Kansas City, USA |
-| [An Event Apart Boston](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | June 29-July 1 | Boston, USA |
+
 
 </article>
 
@@ -163,7 +164,7 @@ If you found some great design conference, just send a Pull Request with respect
 |---|---|---|---|
 | [Design/Content](https://content.design/) | the conference for designers & content strategists. Hear from industry leaders about crafting experiences and telling stories that shape the future of the web. A day of workshops, two days of talks, and thoughtful extras in one of the most beautiful cities. | July 15-17 | Vancouver, Canada |
 | [SIGGRAPH](https://s2020.siggraph.org/) | the forum where inspiration creates progress. Collaborate with our forward-thinking community to find the most transformative advancements across computer graphics and interactive techniques. | July 19-23 | Washington, USA |
-
+| [An Event Apart: Online Together–Human-Centered Design](https://aneventapart.com/) | a single-day online conference with an intense focus on design for all our users, not just some idealized average, giving you deep insights into how to handle unexpected design scenarios and unusual situations. | July 20 | Virtual |
 </article>
 
 <article id="august">
